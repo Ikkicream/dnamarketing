@@ -15,7 +15,7 @@
 	---------------------------
 	 01. Global Content Styles
 	 02. Preloader Content Styles
-     03. Header Content Styles
+         03. Header Content Styles
 	 04. Banner Content Styles
 	 05. About Content Styles
 	 06. Statistics Area
@@ -1187,7 +1187,7 @@ a.nav-order-btn, a.nav-order-btn:hover {
 	padding:0 0 0 0;
 	margin:0 0 0 0;
 	list-style:none;
-	min-height:325px;
+	min-height:375px;
 }
 .portfolio-main.for-home-page .portfolio-content {
 	min-height:inherit;
